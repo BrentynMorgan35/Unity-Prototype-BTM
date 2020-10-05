@@ -26,4 +26,8 @@ public class SpawnManager : MonoBehaviour
        
         } 
     }
+    void SpawnRandomAnimal()
+    {
+
+    }
 }
